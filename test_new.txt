@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 9C0A-9EB0
+
+ Directory of C:\DevOpsProject\GitProject
+
+01/06/2022  04:55 PM    <DIR>          .
+01/06/2022  10:33 AM    <DIR>          ..
+01/06/2022  10:39 AM                18 test1.txt
+01/06/2022  04:47 PM               394 test2.txt
+01/06/2022  04:55 PM                 0 test_new.txt
+               3 File(s)            412 bytes
+               2 Dir(s)  394,027,995,136 bytes free
